@@ -406,7 +406,7 @@ class MediaPlayer:
             self.progress_scale["value"]=0
             self.time_elapsed_label["text"]="00:00"
             self.music_duration_label["text"]="00:00"
-            # self.play_button["image"]=self.play_icon
+            self.play_button["image"]=self.play_icon
 
         
 
